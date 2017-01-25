@@ -45,12 +45,13 @@ In the project's action view page you can check which files were changed, commit
 
 ## FEATURES TO COME
 
-These features will be added in next versions
+These features will be added in next versions by the following order of importance
 1. User specific information (keeping track of who does what / permissions)
-2. Multi user support
-3. File changes conflict manager
-4. Branching
-5. Local intermediate repository
+2. Versioning / Version files pull
+3. Multi user support
+4. File changes conflict manager
+5. Branching
+6. Local intermediate repository
 
 ## CONTRIBUTORS
 
