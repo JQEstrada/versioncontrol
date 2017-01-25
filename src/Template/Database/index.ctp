@@ -1,0 +1,1 @@
+You will need to create the database it before using the application.<?= $this->Html->link("CREATE DB", array('controller' => 'database','action'=> 'createdb'), array( 'class' => 'button')) ?>

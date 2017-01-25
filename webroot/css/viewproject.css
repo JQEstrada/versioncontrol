@@ -1,0 +1,58 @@
+button {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.glyphicon-pencil {
+	color: darkorange;
+}
+
+.glyphicon-trash {
+	color: red;
+}
+
+.glyphicon-plus {
+	color: green;
+}
+
+.commitInfo {
+	display: none;
+	position: relative;
+}
+
+.commitInfo .leftColumn, 
+.commitInfo .rightColumn {
+	position: absolute;
+}
+
+.buttonDiv button {
+	margin: 5px;
+	margin-left: 15px;
+}
+
+.commitButtons {
+	display: none;
+}
+
+.credentialsDiv,
+.credentialsDivPush {
+	display: none;
+}
+
+#fileTransferFTP,
+#fileTransferFTPPush {
+	margin-top: 0;
+}
+
+.editSpan {
+	cursor: pointer;
+	float: right;
+}
+
+.editSpan i {
+	margin-left: 5px;
+}
+
+#pushLoader {
+	display: none;
+}
