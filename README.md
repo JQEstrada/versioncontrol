@@ -1,6 +1,6 @@
 # Version Control
 
-Version Control is an application that allows to manage the source files of a project in the development server / machine, keep the application updated and update the files in a remote location.
+Version Control (v 1.0b) is an application that allows to manage the source files of a project in the development server / machine, keep the application updated and update the files in a remote location.
 
 This application was built using [CakePHP](http://cakephp.org) 3.x.
 
