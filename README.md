@@ -29,7 +29,7 @@ configuration relevant for your application.
 
 ## 4. Build Database
 
-After a successful app instalation and after seting up the database information in the app.php file, you need to build the application's database. You can do that by simply accessing the application Database index page and clicking the "CREATE DB" button. Link to the page is "yourserver/versioncontrolAppName/Database/index"
+After a successful app instalation and after seting up the database information in the app.php file, you need to build the application's database. You can do that by creating an empty database called "versioncontrol". Then simply access the application Database index page and click the "CREATE DB" button. Link to the page is "yourserver/versioncontrolAppName/Database/index"
 
 ## 5. Run app at "yourserver/versioncontrolAppName/projects" !
 
